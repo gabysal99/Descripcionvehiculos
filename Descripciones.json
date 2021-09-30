@@ -13,7 +13,7 @@
             "img/prod1_2.jpg",
             "img/prod1_3.jpg",
             "img/prod1_4.jpg"
-        ]
+        ],
         "relatedProducts": [2, 3]
     },
     {
@@ -30,7 +30,7 @@
             "img/prod2_2.jpg",
             "img/prod2_3.jpg",
             "img/prod2_4.jpg"
-        ]
+        ],
         "relatedProducts": [1, 3]
     },
     {
@@ -47,7 +47,7 @@
             "img/prod3_2.jpg",
             "img/prod3_3.jpg",
             "img/prod3_4.jpg"
-        ]
+        ],
         "relatedProducts": [1, 4]
     },
     {
@@ -64,7 +64,7 @@
             "img/prod4_2.jpg",
             "img/prod4_3.jpg",
             "img/prod4_4.jpg"
-        ]
+        ],
         "relatedProducts": [2, 3]
     }
 ]
